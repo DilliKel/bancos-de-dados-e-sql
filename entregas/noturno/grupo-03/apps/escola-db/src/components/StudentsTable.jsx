@@ -3,6 +3,7 @@ import StudentRow from "./StudentRow";
 function StudentsTable({ alunos }) {
   return (
     <div className="card">
+      <h2>{alunos.length}</h2>
       <table>
         <thead>
           <tr>
@@ -24,6 +25,7 @@ function StudentsTable({ alunos }) {
             />
           ))}
         </tbody>
+
       </table>
     </div>
   );
