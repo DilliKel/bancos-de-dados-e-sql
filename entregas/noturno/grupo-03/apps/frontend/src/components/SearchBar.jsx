@@ -1,4 +1,4 @@
-function SearchBar({ busca, setBusca }) {
+function SearchBar({ busca, setBusca, quantidade }) {
   return (
     <>
       <div className="search-wrapper">
@@ -23,7 +23,7 @@ function SearchBar({ busca, setBusca }) {
       </div>
 
       <div className="stats">
-        Mostrando <span id="count">0</span> registros
+        Mostrando <span id="count">{quantidade}</span> registros
       </div>
     </>
   );
