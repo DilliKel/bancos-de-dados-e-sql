@@ -3,8 +3,8 @@
 | Integrante | Função |
 |---|---|
 | Kelvin Araújo | Banco de Dados — criação do schema no Supabase |
-| Jéssica Iany | Banco de Dados — query principal com filtro |
-| Gabriel Farias | Aplicação — tela de listagem/busca (FlutterFlow) |
+| Jéssica Iany e Letícia Alves | Banco de Dados — query principal com filtro |
+| Gabriel Farias e Letícia Alves  | Aplicação — tela de listagem/busca |
 | Rafael Nóbrega | Aplicação — integração com Supabase |
 | Ryan Kayky | DER e Infraestrutura |
 | Letícia Alves | Documentação e apresentação |
