@@ -3,6 +3,8 @@ function StudentRow({ aluno }) {
     <tr>
       <td>{aluno.aluno}</td>
 
+      <td>{aluno.email}</td>
+
       <td>{aluno.turma}</td>
 
       <td>{aluno.data_matricula}</td>

@@ -8,6 +8,7 @@ function StudentsTable({ alunos }) {
         <thead>
           <tr>
             <th>Aluno</th>
+            <th>E-mail</th>
             <th>Turma</th>
             <th>Data de Matrícula</th>
             <th>Nota 1</th>
